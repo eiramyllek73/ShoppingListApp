@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  midterm
 //
-//  Created by student on 2016-02-26.
-//  Copyright © 2016 Kelly MCalpine. All rights reserved.
+//  Created by Kelly McAlpine on 2016-02-26.
+//  Copyright © 2016 Kelly McAlpine. All rights reserved.
 //
 
 import UIKit
